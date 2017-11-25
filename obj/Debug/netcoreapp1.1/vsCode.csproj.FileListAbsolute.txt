@@ -1,0 +1,9 @@
+C:\Users\sprot\Documents\vsCode\bin\Debug\netcoreapp1.1\vsCode.deps.json
+C:\Users\sprot\Documents\vsCode\bin\Debug\netcoreapp1.1\vsCode.runtimeconfig.json
+C:\Users\sprot\Documents\vsCode\bin\Debug\netcoreapp1.1\vsCode.runtimeconfig.dev.json
+C:\Users\sprot\Documents\vsCode\bin\Debug\netcoreapp1.1\vsCode.dll
+C:\Users\sprot\Documents\vsCode\bin\Debug\netcoreapp1.1\vsCode.pdb
+C:\Users\sprot\Documents\vsCode\obj\Debug\netcoreapp1.1\vsCode.csproj.CoreCompileInputs.cache
+C:\Users\sprot\Documents\vsCode\obj\Debug\netcoreapp1.1\vsCode.AssemblyInfo.cs
+C:\Users\sprot\Documents\vsCode\obj\Debug\netcoreapp1.1\vsCode.dll
+C:\Users\sprot\Documents\vsCode\obj\Debug\netcoreapp1.1\vsCode.pdb
